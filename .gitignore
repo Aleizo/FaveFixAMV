@@ -1,3 +1,6 @@
 out/
 __pycache__/
 *.pyc
+out_render.log
+analysis/audio.json
+analysis/beat_energy.npy
